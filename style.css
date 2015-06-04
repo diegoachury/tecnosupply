@@ -385,6 +385,9 @@ Tags: black, white, light, dark, two-columns, three-columns, left-sidebar, right
 
   /**********   menu style    ************/
   
+  .right-correo{
+    float: right;
+  }
  .navbar {margin-bottom:0px;}
   ul.nav.navbar-nav {}
   ul.nav.navbar-nav li:hover ul.level1.dropdown-menu {
